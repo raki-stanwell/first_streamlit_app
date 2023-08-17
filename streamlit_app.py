@@ -7,3 +7,4 @@ streamlit.text(' -  Idly')
 streamlit.text('2 Idly')
 streamlit.text('Dosa')
 
+streamlit.header('Special Menu')
